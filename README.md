@@ -4,7 +4,7 @@ I am Antonio, a Spanish and British front-end software developer based in London
 
 I craft with ❤️ JavaScript, HTML and CSS code. React and React Native are the frameworks I use the most. I also have good back-end skills in Node.js and Java.
 
-I like to collaborate in open source projects. Projects of my own like the below owes pinned. And third-party projects:
+I like to collaborate in open source projects. Projects of my own like the below ones pinned. And third-party projects:
 
 * [html-webpack-inline-svg-plugin](https://github.com/theGC/html-webpack-inline-svg-plugin/graphs/contributors)
 * [react-native-maps-directions](https://github.com/bramus/react-native-maps-directions/pull/124)
