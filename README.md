@@ -1,4 +1,4 @@
-<img src="https://github.com/AntonioRedondo/AntonioRedondo/raw/master/cover.jpg" width="1000px" />
+![Profile cover](https://github.com/AntonioRedondo/AntonioRedondo/raw/master/cover.jpg)
 
 I am Antonio, a Spanish and British front-end software developer based in London. 
 
