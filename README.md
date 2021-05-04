@@ -10,5 +10,6 @@ I like to collaborate in open source projects. Projects of my own like the below
 * [react-native-maps-directions](https://github.com/bramus/react-native-maps-directions/pull/124)
 * [react-weekly-day-picker](https://github.com/hurkanyakay/react-weekly-day-picker/pulls?q=is%3Aclosed)
 * [webpack-atomizer-loader](https://github.com/acss-io/webpack-atomizer-loader/graphs/contributors)
+* [axios](https://github.com/axios/axios/issues/1259)
 
 Check my portfolio on [antonioredondo.com](https://antonioredondo.com)
