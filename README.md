@@ -1,6 +1,6 @@
 ![Profile cover](https://github.com/AntonioRedondo/AntonioRedondo/raw/master/cover.jpg)
 
-I am Antonio, a Spanish and British front-end software developer based in London. 
+I am Antonio, a Spanish and British front-end software developer based in London since 2012. 
 
 I craft with ❤️ JavaScript, HTML and CSS code. React and React Native are the frameworks I use the most. I also have good back-end skills in Node.js and Express.
 
